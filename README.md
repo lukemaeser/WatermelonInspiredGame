@@ -1,4 +1,4 @@
-# WatermelonInspiredGame
+# Watermelon Inspired Game
 Developed through Unity, the project is written in C# and demonstrates the following skills:
 #
 * ## Unity Engine:
