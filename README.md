@@ -1,7 +1,7 @@
 # WatermelonInspiredGame
 Developed through Unity, the project is written in C# and demonstrates the following skills:
 #
-* ## Unity Engine Proficiency:
+* ## Unity Engine:
   * __Scene Management__: Understanding how to create, manage, and transition between scenes in a game.
   * __Physics and Collisions__: Implementing and managing physics interactions and collision detection to add realism and gameplay mechanics.
   * __Animations and UI__: Creating smooth animations and user interfaces that enhance the player experience.
@@ -28,5 +28,5 @@ Developed through Unity, the project is written in C# and demonstrates the follo
   * __Version Control__: Using version control systems like Git effectively, including branching and merging strategies for team collaboration.
   * __Debugging and Testing__: Developing strategies for debugging issues and thoroughly testing the game to ensure quality.
 #
-* ## Deployment and Market Considerations:
+* ## Deployment and Market Considerations
   * __Deployment__: Understanding the process for packaging and deploying the game on different platforms, especially mobile stores like Google Play and the App Store.
