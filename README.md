@@ -1,5 +1,5 @@
 # WatermelonInspiredGame
-A game inspired by Suika Game (Watermelon Game). Developed through Unity, the project is written in C# and demonstrates the following skills:
+Developed through Unity, the project is written in C# and demonstrates the following skills:
 #
 * ## Unity Engine Proficiency:
   * __Scene Management__: Understanding how to create, manage, and transition between scenes in a game.
